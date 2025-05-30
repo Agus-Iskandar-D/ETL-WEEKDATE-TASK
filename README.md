@@ -21,6 +21,7 @@ Program ini dirancang untuk memberdayakan masyarakat desa dengan solusi teknolog
 
 Daftar Pertanyaan Query untuk Proyek
 Proyek ini akan dibangun langkah demi langkah melalui serangkaian query. Setiap query memiliki narasi yang menjelaskan apa yang harus dilakukan. Gunakan konsep dari Chapter 1 hingga Chapter 15 untuk menyelesaikan proyek ini.
+
 Query 1: Membuat Class untuk Sistem UMKM
 Kita mulai dengan membuat class UMKMSystem yang akan menjadi inti dari sistem ini. Class ini akan menyimpan data dasar seperti nama UMKM, data anggota, dan dana pinjaman awal dari Arry Hutomo.  
 
